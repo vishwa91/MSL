@@ -1,5 +1,8 @@
 # Code to simulate Micro-baseline Structured Light code on synthetic data.
 
+![Micro-baseline Structured Light Configuration](images/msl2019_1.png)
+![Micro-baseline Structured Light Result](images/msl2019_2.png)
+
 ## Files
 1. `msl.m` -- Micro-baseline Strctured Light function. Type help(msl) to get more info
 2. `get_pattern.m` -- Creates sinusoid or triangular pattern
